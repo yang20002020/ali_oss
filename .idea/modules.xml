@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ali_oss.iml" filepath="$PROJECT_DIR$/ali_oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aliyun-oss-spring-boot-autoconfigure/aliyun-oss-spring-boot-autoconfigure.iml" filepath="$PROJECT_DIR$/aliyun-oss-spring-boot-autoconfigure/aliyun-oss-spring-boot-autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aliyun-oss-spring-boot-start/aliyun-oss-spring-boot-start.iml" filepath="$PROJECT_DIR$/aliyun-oss-spring-boot-start/aliyun-oss-spring-boot-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-autoconfiguration-test/springboot-autoconfiguration-test.iml" filepath="$PROJECT_DIR$/springboot-autoconfiguration-test/springboot-autoconfiguration-test.iml" />
+    </modules>
+  </component>
+</project>
